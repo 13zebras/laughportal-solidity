@@ -27,3 +27,5 @@ Code is hosted at [Replit](https://replit.com).
 ### Buildspace
 
 [Buildspace](https://buildspace.so) provided excellent instruction with a very deep dive into the entire entire process of developing, testing, and deploying a web3 app.  
+
+I received a [Buildspace NFT @ Opensea](https://opensea.io/assets/matic/0x3cd266509d127d0eac42f4474f57d0526804b44e/3647) for completing this project.
