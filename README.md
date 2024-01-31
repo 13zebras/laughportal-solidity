@@ -13,16 +13,9 @@ We worked with the following "tools":
 - React
 - Replit
 
-I was familiar with Replit, somewhat familiar with React and Metamask, but Hardhat and Alchemy were new to me. Fantastic tools!
+I was familiar with Replit, somewhat familiar with React and Metamask, but Hardhat and Alchemy were new to me.
 
-I also gained a far better understanding of Solidity than with the Moralis courses I had taken. The Buildspace team did a great job!
-
-### URL for Project
-
-URL for The Laugh Portal:
-- [Laugh Portal - bslaugh.13z.dev](https://bslaugh.13z.dev)
-
-Code is hosted at [Replit](https://replit.com).
+I also gained a far better understanding of Solidity than with the Moralis courses I had taken.
 
 ### Buildspace
 
